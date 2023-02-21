@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "crustfix:blocks/crfx_chst_2",
+    "particle": "crustfix:blocks/crfx_chst_2"
+  }
+}

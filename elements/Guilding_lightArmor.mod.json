@@ -1,0 +1,51 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "guilding_light_head",
+    "enableBody": true,
+    "textureBody": "guilding_light_body",
+    "enableLeggings": true,
+    "textureLeggings": "guilding_light_leggings",
+    "enableBoots": true,
+    "textureBoots": "guilding_light_boots",
+    "creativeTab": {
+      "value": "CUSTOM:Crustfixtab"
+    },
+    "armorTextureFile": "guilding_light",
+    "helmetName": "Guilding light helmet",
+    "bodyName": "Guilding light chestplate",
+    "leggingsName": "Guilding light leggings",
+    "bootsName": "Guilding light boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 150,
+    "damageValueHelmet": 1000,
+    "damageValueBody": 1000,
+    "damageValueLeggings": 1000,
+    "damageValueBoots": 1000,
+    "enchantability": 100,
+    "toughness": 5.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Guildinglightrock"
+      }
+    ]
+  }
+}

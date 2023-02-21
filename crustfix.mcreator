@@ -1,0 +1,1333 @@
+{
+  "id_map": {
+    "GUI": 2,
+    "DIMENSION": 1
+  },
+  "mod_elements": [
+    {
+      "name": "Crustfix",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Crustfix2",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CrustfixMobIsHitWithItem",
+      "type": "procedure",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Goodbye",
+      "type": "achievement",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Crustfixchest",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Crustfixchest2OnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Crustfixchest2",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Guildinglightrock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Guildinglightworld",
+      "type": "dimension",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "1": 1
+      }
+    },
+    {
+      "name": "CrustfixchestOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CrustfixchestBlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Icon",
+      "type": "item",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Crustfixtab",
+      "type": "tab",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GuildinglightrocktoolPickaxe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GuildinglightrocktoolAxe",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GuildinglightrocktoolSword",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GuildinglightrocktoolShovel",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GuildinglightrocktoolHoe",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GuildinglightrocktoolPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GuildinglightrocktoolAxeRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GuildinglightrocktoolSwordRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GuildinglightrocktoolShovelRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GuildinglightrocktoolHoeRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Guilding_lightArmor",
+      "type": "armor",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Guilding_lightArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Guilding_lightArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Guilding_lightArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Guilding_lightArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Dange",
+      "type": "structure",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Disc1",
+      "type": "musicdisc",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MEDPLAYBUT",
+      "type": "procedure",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Medplaygui",
+      "type": "gui",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 1
+      }
+    },
+    {
+      "name": "MEDPLAYBUTRightClickedInAir",
+      "type": "procedure",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mediaplayer",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sd2",
+      "type": "musicdisc",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sd3",
+      "type": "musicdisc",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sd4",
+      "type": "musicdisc",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sd5",
+      "type": "musicdisc",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sd6",
+      "type": "musicdisc",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sd7",
+      "type": "musicdisc",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sd8",
+      "type": "musicdisc",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sd9",
+      "type": "musicdisc",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sd10",
+      "type": "musicdisc",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sd11",
+      "type": "musicdisc",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sd12",
+      "type": "musicdisc",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sd13",
+      "type": "musicdisc",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sd14",
+      "type": "musicdisc",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sd15",
+      "type": "musicdisc",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sd16",
+      "type": "musicdisc",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MEDSTOPBUT",
+      "type": "procedure",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PlasticOre",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlasticOreBlock",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlasticIngot",
+      "type": "item",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlasticOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlasticBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlasticOreSmelting",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Medplaycraft",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Glwood",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Glflover",
+      "type": "plant",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Glleaves",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Gldirt",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Glgrass",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Glvines",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Glfruit",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Glbiome",
+      "type": "biome",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Emprysd",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sdcreatgui",
+      "type": "gui",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 2
+      }
+    },
+    {
+      "name": "Sdgenerator",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Disc2",
+      "type": "musicdisc",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Disc3",
+      "type": "musicdisc",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Disc4",
+      "type": "musicdisc",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Createsd",
+      "type": "procedure",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Glsdlt",
+      "type": "loottable",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Ach1",
+      "type": "achievement",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Discgot",
+      "type": "procedure",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Glplanks",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rep1",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rep2",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Glwoodstairs",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Glplanksslab",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Glwoodfence",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Glplankstrapdoor",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Gldoor2",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Gldoor1",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Gldoor1OnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Gldoor2OnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GlfloverMobplayerCollidesWithPlant",
+      "type": "procedure",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sd17",
+      "type": "musicdisc",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Screamer",
+      "type": "potion",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Virus",
+      "type": "overlay",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ScreamerOnPotionActiveTick",
+      "type": "procedure",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ScreamerPotionExpires",
+      "type": "procedure",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Proc1",
+      "type": "procedure",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sd18",
+      "type": "musicdisc",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sdav",
+      "type": "food",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SdavFoodEaten",
+      "type": "procedure",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Gldust",
+      "type": "item",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Glore",
+      "type": "block",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Glfuel",
+      "type": "fuel",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Gldurtrep",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "crfx_use_snd",
+      "file": "spolzuiu-e-protiv-h---_shorts.mp4-online-audio-convert.com-_mp3cut.net_",
+      "category": "master"
+    },
+    {
+      "name": "unhinged2",
+      "file": "---.-2-nhinged-",
+      "category": "music"
+    },
+    {
+      "name": "otherside",
+      "file": "otherside-_256-kbps_",
+      "category": "record"
+    },
+    {
+      "name": "pigstep",
+      "file": "ena_aine_-_igstep_69213236",
+      "category": "record"
+    },
+    {
+      "name": "dooropenclose",
+      "file": "tree-branch-leaves-shaking_gy3csseu-_mp3cut.net_",
+      "category": "master"
+    },
+    {
+      "name": "rec5",
+      "file": "amuel-berg-isc-ive-_-inecraft-nimation-_256-kbps__1",
+      "category": "record"
+    },
+    {
+      "name": "hereicome",
+      "file": "_-eeking-_fficial-usic-ideo_-oors--ere--ome-emix_-_256-kbps_",
+      "category": "record"
+    },
+    {
+      "name": "curlightost",
+      "file": "-oblox-_-urious-ight-_256-kbps_",
+      "category": "music"
+    }
+  ],
+  "language_map": {
+    "ru_ru": {
+      "item.guilding_lightarmorbody.name": "Нагрудник путиводного света",
+      "item.guildinglightrocktoolaxe.name": "Топор путиводного света",
+      "tile.crustfixchest.name": "Рамка для креста (с крестом)",
+      "tile.plasticore.name": "Пластиковая руда",
+      "item.record.sd17.desc": "LSplash-Here I Come (Remix)",
+      "item.crustfix2.name": "голубой крест",
+      "item.sd10.name": "SD-карта",
+      "item.sd4.name": "SD-карта",
+      "tile.gldoor1.name": "Gldoor1",
+      "item.record.sd2.desc": "C418 - 11",
+      "item.record.sd11.desc": "C418-ward",
+      "item.record.sd7.desc": "C418-mall",
+      "tile.glwoodstairs.name": "Путиводные ступеньки",
+      "item.sd16.name": "SD-карта",
+      "item.disc1.name": "SD-карта",
+      "potion.effect.screamer": "Screamer",
+      "item.emprysd.name": "Пустая SD-карта",
+      "item.record.disc2.desc": "Lena Raine-pigstep",
+      "item.sd11.name": "SD-карта",
+      "item.record.sd12.desc": "Повреждённый файл",
+      "tile.glplanks.name": "Glplanks",
+      "item.record.sd18.desc": "LSplash-Curious Light",
+      "item.gldust.name": "Guilding Dust",
+      "item.sd3.name": "SD-карта",
+      "tile.glflover.name": "Путиводный цветок",
+      "tipped_arrow.effect.screamer": "Arrow of Screamer",
+      "item.guilding_lightarmorlegs.name": "Штаны путиводного свеиа",
+      "tile.gldirt.name": "Путеводная земля",
+      "item.sd17.name": "SD-карта",
+      "tile.crustfixchest2.name": "Рамка для креста",
+      "item.sdav.name": "SD-карта с антивирусом",
+      "item.record.sd3.desc": "C418 - cat",
+      "item.record.sd9.desc": "C418-stal",
+      "item.record.sd13.desc": "C418-wait",
+      "item.record.sd6.desc": "C418-far",
+      "item.record.sd16.desc": "Samuel ?berg-5",
+      "tile.glfruit.name": "Фрукт путиводного света",
+      "effect.screamer": "Screamer",
+      "tile.gldoor2.name": "Путиводная дверь 2",
+      "item.icon.name": "Иконка",
+      "item.guildinglightrocktoolshovel.name": "Лопата путеводного света",
+      "item.sd6.name": "SD-карта",
+      "item.sd9.name": "SD-карта",
+      "tile.glplanksslab.name": "Путиводный полублок",
+      "item.record.disc1.desc": "LSplash - Unhinged II",
+      "tile.glgrass.name": "Путиводная трава",
+      "tile.sdgenerator.name": "Создатель SD-карт",
+      "item.record.disc4.desc": "Samuel Aberg-5",
+      "tile.glwoodfence.name": "Путеводный забор",
+      "tile.glleaves.name": "Путиводные листья",
+      "advancements.ach1.descr": "Пренеси любой предмет из более поздней версии. Например: диск",
+      "tile.plasticoreblock.name": "Block of Plastic",
+      "item.guilding_lightarmorhelmet.name": "Шапка путеводного света",
+      "item.record.sd10.desc": "C418-strad",
+      "item.disc2.name": "Пластинка",
+      "tile.glore.name": "Glore",
+      "advancements.goodbye.descr": "Используй крест на мобе",
+      "item.disc4.name": "Пластинка",
+      "item.guildinglightrocktoolhoe.name": "Мотыга путеводного света",
+      "lingering_potion.effect.screamer": "Lingering Screamer",
+      "tile.glplankstrapdoor.name": "Путиводный люк",
+      "splash_potion.effect.screamer": "Splash Screamer",
+      "item.mediaplayer.name": "Плеер",
+      "itemGroup.tabcrustfixtab": "Крест",
+      "item.record.sd14.desc": "Lena Raine-otherside",
+      "advancements.goodbye.title": "Пока-пока!",
+      "item.record.sd4.desc": "C418-blocks",
+      "tile.glwood.name": "Путиводное бревно",
+      "item.sd13.name": "SD-карта",
+      "item.record.sd15.desc": "Lena Raine-pigstep",
+      "item.sd14.name": "SD-карта",
+      "item.sd7.name": "SD-карта",
+      "item.record.disc3.desc": "Lena Raine-otherside",
+      "item.sd8.name": "SD-карта",
+      "item.crustfix.name": "Крест",
+      "item.plasticingot.name": "Пластик",
+      "tile.guildinglightrock.name": "Камень путеводного света",
+      "item.guilding_lightarmorboots.name": "Сапоги путеводного света",
+      "item.disc3.name": "Пластинка",
+      "item.sd18.name": "SD-карта",
+      "item.guildinglightrocktoolpickaxe.name": "Кирка путеводного света",
+      "item.guildinglightworld.name": "Активатор портала в мир путеводного света",
+      "tile.glvines.name": "Путиводная лоза",
+      "item.guildinglightrocktoolsword.name": "Меч путеводного света",
+      "advancements.ach1.title": "Из будущего в прошлое",
+      "item.sd15.name": "SD-карта",
+      "item.record.sd5.desc": "C418-chirp",
+      "item.sd5.name": "SD-карта",
+      "item.sd12.name": "Повреждённая SD-карта",
+      "item.sd2.name": "SD-карта",
+      "item.record.sd8.desc": "C418-mellohi"
+    },
+    "en_us": {
+      "item.guilding_lightarmorbody.name": "Guilding light chestplate",
+      "item.guildinglightrocktoolaxe.name": "Guilding light axe",
+      "tile.crustfixchest.name": "Crustfixchest",
+      "tile.plasticore.name": "Plastic Ore",
+      "item.record.sd17.desc": "LSplash-Here I Come (Remix)",
+      "item.crustfix2.name": "Crustfix2",
+      "item.sd10.name": "SD-card",
+      "item.sd4.name": "SD-card",
+      "tile.gldoor1.name": "Gldoor1",
+      "item.record.sd2.desc": "C418 - 13",
+      "item.record.sd11.desc": "C418-ward",
+      "item.record.sd7.desc": "C418-mall",
+      "tile.glwoodstairs.name": "Guilding Planks Stairs",
+      "item.sd16.name": "SD-card",
+      "item.disc1.name": "SD-card",
+      "potion.effect.screamer": "Screamer",
+      "item.emprysd.name": "Empty SD-card",
+      "item.record.disc2.desc": "Lena Raine-pigstep",
+      "item.sd11.name": "SD-card",
+      "item.record.sd12.desc": "Damaged file",
+      "tile.glplanks.name": "Glplanks",
+      "item.record.sd18.desc": "LSplash-Curious Light",
+      "item.gldust.name": "Guilding Dust",
+      "item.sd3.name": "SD-card",
+      "tile.glflover.name": "Guilding Light Flower",
+      "tipped_arrow.effect.screamer": "Arrow of Screamer",
+      "item.guilding_lightarmorlegs.name": "Guilding light leggings",
+      "tile.gldirt.name": "Dirt of Guilding Light",
+      "item.sd17.name": "SD-card",
+      "tile.crustfixchest2.name": "Crustfix frame",
+      "item.sdav.name": "SD-card with antivirus",
+      "item.record.sd3.desc": "C418 - cat",
+      "item.record.sd9.desc": "C418-stal",
+      "item.record.sd13.desc": "C418-wait",
+      "item.record.sd6.desc": "C418-far",
+      "item.record.sd16.desc": "Samuel Aberg-5",
+      "tile.glfruit.name": "Fruit of Guilding Light",
+      "effect.screamer": "Screamer",
+      "tile.gldoor2.name": "Gldoor2",
+      "item.icon.name": "Icon",
+      "item.guildinglightrocktoolshovel.name": "Guilding light shovel",
+      "item.sd6.name": "SD-card",
+      "item.sd9.name": "SD-card",
+      "tile.glplanksslab.name": "Guilding Planks Slab",
+      "item.record.disc1.desc": "LSplash - Unhinged II",
+      "tile.glgrass.name": "Grass of Guilding Light",
+      "tile.sdgenerator.name": "Sdgenerator",
+      "item.record.disc4.desc": "Samuel Aberg-5",
+      "tile.glwoodfence.name": "Guilding Planks Fence",
+      "tile.glleaves.name": "Leaves of Guilding Light",
+      "advancements.ach1.descr": "Bring any item from more latest version. For example: music disc",
+      "tile.plasticoreblock.name": "Block of Plastic",
+      "item.guilding_lightarmorhelmet.name": "Guilding light helmet",
+      "item.record.sd10.desc": "C418-strad",
+      "item.disc2.name": "Music Disc",
+      "tile.glore.name": "Glore",
+      "advancements.goodbye.descr": "Use crustfix on any entity",
+      "item.disc4.name": "Music Disc",
+      "item.guildinglightrocktoolhoe.name": "Guilding light hoe",
+      "lingering_potion.effect.screamer": "Lingering Screamer",
+      "tile.glplankstrapdoor.name": "Glplankstrapdoor",
+      "splash_potion.effect.screamer": "Splash Screamer",
+      "item.mediaplayer.name": "Media player",
+      "itemGroup.tabcrustfixtab": "Crustfix",
+      "item.record.sd14.desc": "Lena Raine-otherside",
+      "advancements.goodbye.title": "Goodbye",
+      "item.record.sd4.desc": "C418-blocks",
+      "tile.glwood.name": "Guilding Wood",
+      "item.sd13.name": "SD-card",
+      "item.record.sd15.desc": "Lena Raine-pigstep",
+      "item.sd14.name": "SD-card",
+      "item.sd7.name": "SD-card",
+      "item.record.disc3.desc": "Lena Raine-otherside",
+      "item.sd8.name": "SD-card",
+      "item.crustfix.name": "Crustfix",
+      "item.plasticingot.name": "Plastic",
+      "tile.guildinglightrock.name": "Guildinglightrock",
+      "item.guilding_lightarmorboots.name": "Guilding light boots",
+      "item.disc3.name": "Music Disc",
+      "item.sd18.name": "SD-card",
+      "item.guildinglightrocktoolpickaxe.name": "Guilding light pickaxe",
+      "item.guildinglightworld.name": "Guilding light world Portal Igniter",
+      "tile.glvines.name": "Vines of Guilding Light",
+      "item.guildinglightrocktoolsword.name": "Guilding light sword",
+      "advancements.ach1.title": "From Future to Past",
+      "item.sd15.name": "SD-card",
+      "item.record.sd5.desc": "C418-chirp",
+      "item.sd5.name": "SD-card",
+      "item.sd12.name": "Damaged SD-card",
+      "item.sd2.name": "SD-card",
+      "item.record.sd8.desc": "C418-mellohi"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "crustfix",
+    "modName": "Doors crustfix",
+    "version": "A-0.0.3",
+    "description": "Crustfix from roblox doors",
+    "author": "Snus1k_2009",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "icon",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "mcreator_link"
+    ],
+    "currentGenerator": "1.12.2",
+    "credits": "Credit to LSplash",
+    "modElementsPackage": "net.mcreator.crustfix",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}

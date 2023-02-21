@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "sd7",
+    "name": "SD-card",
+    "description": "C418-mall",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "record.mall"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

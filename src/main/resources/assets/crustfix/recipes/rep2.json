@@ -1,0 +1,20 @@
+{
+  "group": "crustfix",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "crustfix:glplanks"
+    },
+    "1": {
+      "item": "crustfix:glplanks"
+    }
+  },
+  "result": {
+    "item": "minecraft:stick",
+    "count": 4
+  }
+}

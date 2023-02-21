@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "sd15",
+    "name": "SD-card",
+    "description": "Lena Raine-pigstep",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:pigstep"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

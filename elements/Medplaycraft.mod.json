@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PlasticIngot"
+      },
+      {
+        "value": "Blocks.BEACON"
+      },
+      {
+        "value": "CUSTOM:PlasticIngot"
+      },
+      {
+        "value": "CUSTOM:PlasticIngot"
+      },
+      {
+        "value": "Blocks.STONE_BUTTON"
+      },
+      {
+        "value": "CUSTOM:PlasticIngot"
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "Blocks.JUKEBOX"
+      },
+      {
+        "value": "Items.DIAMOND"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Mediaplayer"
+    },
+    "name": "medplaycraft",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "crustfix:custom/glvines",
+  "textures": {
+    "all": "crustfix:blocks/glvines",
+    "particle": "crustfix:blocks/glvines",
+    "0": "crustfix:blocks/glvines",
+    "missing": "crustfix:blocks/glvines"
+  }
+}

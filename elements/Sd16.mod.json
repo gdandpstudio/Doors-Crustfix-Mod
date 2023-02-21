@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "sd16",
+    "name": "SD-card",
+    "description": "Samuel Aberg-5",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:rec5"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

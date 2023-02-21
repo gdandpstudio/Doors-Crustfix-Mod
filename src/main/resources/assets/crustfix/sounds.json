@@ -1,0 +1,74 @@
+{
+  "crfx_use_snd": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "crustfix:spolzuiu-e-protiv-h---_shorts.mp4-online-audio-convert.com-_mp3cut.net_",
+        "stream": false
+      }
+    ]
+  },
+  "unhinged2": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "crustfix:---.-2-nhinged-",
+        "stream": true
+      }
+    ]
+  },
+  "otherside": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "crustfix:otherside-_256-kbps_",
+        "stream": true
+      }
+    ]
+  },
+  "pigstep": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "crustfix:ena_aine_-_igstep_69213236",
+        "stream": true
+      }
+    ]
+  },
+  "dooropenclose": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "crustfix:tree-branch-leaves-shaking_gy3csseu-_mp3cut.net_",
+        "stream": false
+      }
+    ]
+  },
+  "rec5": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "crustfix:amuel-berg-isc-ive-_-inecraft-nimation-_256-kbps__1",
+        "stream": true
+      }
+    ]
+  },
+  "hereicome": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "crustfix:_-eeking-_fficial-usic-ideo_-oors--ere--ome-emix_-_256-kbps_",
+        "stream": true
+      }
+    ]
+  },
+  "curlightost": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "crustfix:-oblox-_-urious-ight-_256-kbps_",
+        "stream": true
+      }
+    ]
+  }
+}

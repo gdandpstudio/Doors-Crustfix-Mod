@@ -1,0 +1,20 @@
+{
+  "_fv": 6,
+  "_type": "structure",
+  "definition": {
+    "structure": "dange",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 2000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnWorldTypes": [
+      "Surface",
+      "CUSTOM:Guildinglightworld"
+    ],
+    "restrictionBlocks": [],
+    "restrictionBiomes": []
+  }
+}

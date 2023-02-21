@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "sd18",
+    "name": "SD-card",
+    "description": "LSplash-Curious Light",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:curlightost"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

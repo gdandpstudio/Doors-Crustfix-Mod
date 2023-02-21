@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "sd17",
+    "name": "SD-card",
+    "description": "LSplash-Here I Come (Remix)",
+    "creativeTab": {
+      "value": "CUSTOM:Crustfixtab"
+    },
+    "music": {
+      "value": "CUSTOM:hereicome"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

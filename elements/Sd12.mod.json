@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "sd12",
+    "name": "Damaged SD-card",
+    "description": "Damaged file",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "record.11"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

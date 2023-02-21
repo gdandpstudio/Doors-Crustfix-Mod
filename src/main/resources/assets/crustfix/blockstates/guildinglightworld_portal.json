@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "crustfix:guildinglightworld_portal_ew"
+    },
+    "axis=x": {
+      "model": "crustfix:guildinglightworld_portal_ns"
+    },
+    "inventory": {
+      "model": "crustfix:guildinglightworld_portal_ns"
+    }
+  }
+}

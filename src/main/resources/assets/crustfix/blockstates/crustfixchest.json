@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "crustfix:crustfixchest"
+    },
+    "facing=north": {
+      "model": "crustfix:crustfixchest"
+    },
+    "facing=east": {
+      "model": "crustfix:crustfixchest",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "crustfix:crustfixchest",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "crustfix:crustfixchest",
+      "y": 270
+    }
+  }
+}

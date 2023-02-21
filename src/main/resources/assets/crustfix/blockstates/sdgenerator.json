@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "crustfix:sdgenerator"
+    },
+    "facing=north": {
+      "model": "crustfix:sdgenerator"
+    },
+    "facing=east": {
+      "model": "crustfix:sdgenerator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "crustfix:sdgenerator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "crustfix:sdgenerator",
+      "y": 270
+    }
+  }
+}

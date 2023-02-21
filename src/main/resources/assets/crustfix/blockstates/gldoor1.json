@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "crustfix:gldoor1"
+    },
+    "facing=north": {
+      "model": "crustfix:gldoor1"
+    },
+    "facing=east": {
+      "model": "crustfix:gldoor1",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "crustfix:gldoor1",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "crustfix:gldoor1",
+      "y": 270
+    }
+  }
+}

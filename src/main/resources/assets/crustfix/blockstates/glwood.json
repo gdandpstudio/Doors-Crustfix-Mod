@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "crustfix:glwood"
+    },
+    "facing=south": {
+      "model": "crustfix:glwood"
+    },
+    "facing=north": {
+      "model": "crustfix:glwood"
+    },
+    "facing=east": {
+      "model": "crustfix:glwood",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "crustfix:glwood",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "crustfix:glwood",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "crustfix:glwood",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

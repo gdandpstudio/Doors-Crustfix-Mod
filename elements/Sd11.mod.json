@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "sd11",
+    "name": "SD-card",
+    "description": "C418-ward",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "record.ward"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

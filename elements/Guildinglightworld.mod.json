@@ -1,0 +1,68 @@
+{
+  "_fv": 6,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:Guildinglightrock"
+    },
+    "portalParticles": {
+      "value": "TOTEM"
+    },
+    "portalLuminance": 1.0,
+    "portalSound": {
+      "value": ""
+    },
+    "igniterName": "Guilding light world Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:Crustfixtab"
+    },
+    "texture": "gldnlghtwrld_ingiter",
+    "portalTexture": "portal_anim",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "void"
+      },
+      {
+        "value": "CUSTOM:Glbiome"
+      },
+      {
+        "value": "plains"
+      },
+      {
+        "value": "ocean"
+      },
+      {
+        "value": "desert"
+      }
+    ],
+    "worldGenType": "End like gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Guildinglightrock"
+    },
+    "secondaryFillerBlock": {
+      "value": "CUSTOM:Guildinglightrock"
+    },
+    "tertiaryFillerBlock": {
+      "value": "CUSTOM:Guildinglightrock"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:Guildinglightrock"
+    },
+    "airColor": {
+      "value": -16764109,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "hasWeather": true,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false,
+    "dimensionMusic": {
+      "value": "CUSTOM:curlightost"
+    }
+  }
+}

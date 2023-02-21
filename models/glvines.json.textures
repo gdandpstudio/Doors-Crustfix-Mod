@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "glvines",
+        "missing": "glvines"
+      },
+      "name": "default"
+    }
+  }
+}

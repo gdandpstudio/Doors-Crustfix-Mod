@@ -1,0 +1,40 @@
+{
+  "_fv": 6,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "conditionxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"condition_input\" deletable=\"false\" x=\"40\" y=\"40\"><value name=\"CONDITION\"><block type=\"entity_haspotioneffect\"><field name=\"potion\">CUSTOM:Screamer</field></block></value></block></xml>",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "bfjykhnvbgdhxjcmbh.png",
+          "name": "bfjykhnvbgdhxjcmbh.png",
+          "x": -28,
+          "y": -21
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bfjykhnvbgdhxjcmbh.png",
+          "name": "bfjykhnvbgdhxjcmbh.png",
+          "x": 469,
+          "y": -12
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bfjykhnvbgdhxjcmbh.png",
+          "name": "bfjykhnvbgdhxjcmbh.png",
+          "x": 291,
+          "y": -12
+        }
+      }
+    ],
+    "baseTexture": "bfjykhnvbgdhxjcmbh.png",
+    "baseTextureW": 256,
+    "baseTextureH": 256
+  }
+}

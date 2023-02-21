@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "crustfix:blocks/gldirt",
+    "up": "crustfix:blocks/glgrass2",
+    "north": "crustfix:blocks/glgrass1",
+    "east": "crustfix:blocks/glgrass1",
+    "south": "crustfix:blocks/glgrass1",
+    "west": "crustfix:blocks/glgrass1",
+    "particle": "crustfix:blocks/gldirt"
+  }
+}

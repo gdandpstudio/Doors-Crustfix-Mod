@@ -1,0 +1,8 @@
+{
+  "parent": "crustfix:custom/door2",
+  "textures": {
+    "all": "crustfix:blocks/texture1234561",
+    "particle": "crustfix:blocks/texture1234561",
+    "0": "crustfix:blocks/texture1234561"
+  }
+}

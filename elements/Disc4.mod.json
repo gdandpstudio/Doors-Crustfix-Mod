@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "27lg6uehmdfho60na4fmnx7f6o4biezs",
+    "name": "Music Disc",
+    "description": "Samuel Aberg-5",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:rec5"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

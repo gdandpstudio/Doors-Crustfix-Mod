@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "crustfix:glfruit"
+    },
+    "facing=north": {
+      "model": "crustfix:glfruit"
+    },
+    "facing=east": {
+      "model": "crustfix:glfruit",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "crustfix:glfruit",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "crustfix:glfruit",
+      "y": 270
+    }
+  }
+}

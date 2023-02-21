@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "sd6",
+    "name": "SD-card",
+    "description": "C418-far",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "record.far"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

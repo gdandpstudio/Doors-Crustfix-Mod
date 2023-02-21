@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "sd3",
+    "name": "SD-card",
+    "description": "C418 - cat",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "record.cat"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

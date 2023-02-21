@@ -1,0 +1,59 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Emprysd"
+          },
+          "id": 0,
+          "name": "Slot #0",
+          "x": 328,
+          "y": 87
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "name": "Slot #1",
+          "x": 503,
+          "y": 87
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "name": "Slot #2",
+          "x": 414,
+          "y": 193
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Create",
+          "onClick": {
+            "name": "Createsd"
+          },
+          "width": 120,
+          "height": 40,
+          "name": "Create",
+          "x": 368,
+          "y": 135
+        }
+      }
+    ]
+  }
+}

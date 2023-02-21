@@ -1,0 +1,47 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "glflower",
+    "customModelName": "Cross model",
+    "plantType": "normal",
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 14,
+    "name": "Guilding Light Flower",
+    "creativeTab": {
+      "value": "CUSTOM:Crustfixtab"
+    },
+    "hardness": 10.0,
+    "resistance": 100.0,
+    "luminance": 1.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "isReplaceable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 20,
+    "spawnWorldTypes": [
+      "CUSTOM:Guildinglightworld",
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Glbiome"
+      }
+    ],
+    "onEntityCollides": {
+      "name": "GlfloverMobplayerCollidesWithPlant"
+    }
+  }
+}

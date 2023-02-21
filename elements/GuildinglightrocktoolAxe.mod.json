@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "guildinglightrocktool_axe",
+    "customModelName": "Normal",
+    "name": "Guilding light axe",
+    "creativeTab": {
+      "value": "CUSTOM:Crustfixtab"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 100000,
+    "efficiency": 100000.0,
+    "attackSpeed": 100.0,
+    "enchantability": 100000,
+    "damageVsEntity": 100000.0,
+    "usageCount": 100000,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Guildinglightrock"
+      }
+    ]
+  }
+}

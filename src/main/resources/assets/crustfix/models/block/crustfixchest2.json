@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "crustfix:blocks/crfx_chst_1",
+    "up": "crustfix:blocks/crfx_chst_1",
+    "north": "crustfix:blocks/crfx_chst_3",
+    "east": "crustfix:blocks/crfx_chst_1",
+    "south": "crustfix:blocks/crfx_chst_1",
+    "west": "crustfix:blocks/crfx_chst_1",
+    "particle": "crustfix:blocks/crfx_chst_1"
+  }
+}

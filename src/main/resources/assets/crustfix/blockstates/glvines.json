@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "crustfix:glvines"
+    },
+    "facing=north": {
+      "model": "crustfix:glvines"
+    },
+    "facing=east": {
+      "model": "crustfix:glvines",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "crustfix:glvines",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "crustfix:glvines",
+      "y": 270
+    }
+  }
+}

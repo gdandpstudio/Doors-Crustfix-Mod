@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "sd8",
+    "name": "SD-card",
+    "description": "C418-mellohi",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "record.mellohi"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

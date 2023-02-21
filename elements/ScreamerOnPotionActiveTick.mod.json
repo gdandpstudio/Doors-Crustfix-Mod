@@ -1,0 +1,7 @@
+{
+  "_fv": 6,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" deletable=\"false\" x=\"40\" y=\"40\"><field name=\"trigger\">No additional trigger</field><next><block type=\"entity_send_chat\"><value name=\"text\"><block type=\"text\"><field name=\"TEXT\">§4 MISSING \"minecraft.exe\"!</field></block></value><value name=\"actbar\"><block type=\"logic_boolean\"><field name=\"BOOL\">FALSE</field></block></value><next><block type=\"entity_set_foodlevel\"><value name=\"foodlevel\"><block type=\"math_number\"><field name=\"NUM\">19</field></block></value><next><block type=\"move_entity\"><value name=\"x\"><block type=\"coord_x\"/></value><value name=\"y\"><block type=\"coord_y\"/></value><value name=\"z\"><block type=\"coord_z\"/></value></block></next></block></next></block></next></block></xml>"
+  }
+}

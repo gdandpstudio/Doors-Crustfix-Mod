@@ -1,0 +1,42 @@
+{
+  "group": "crustfix",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "crustfix:plasticingot"
+    },
+    "1": {
+      "item": "minecraft:beacon"
+    },
+    "2": {
+      "item": "crustfix:plasticingot"
+    },
+    "3": {
+      "item": "crustfix:plasticingot"
+    },
+    "4": {
+      "item": "minecraft:stone_button"
+    },
+    "5": {
+      "item": "crustfix:plasticingot"
+    },
+    "6": {
+      "item": "minecraft:redstone"
+    },
+    "7": {
+      "item": "minecraft:jukebox"
+    },
+    "8": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "crustfix:mediaplayer",
+    "count": 1
+  }
+}

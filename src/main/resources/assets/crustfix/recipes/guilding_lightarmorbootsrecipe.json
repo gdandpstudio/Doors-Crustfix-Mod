@@ -1,0 +1,26 @@
+{
+  "group": "crustfix",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "crustfix:guildinglightrock"
+    },
+    "2": {
+      "item": "crustfix:guildinglightrock"
+    },
+    "3": {
+      "item": "crustfix:guildinglightrock"
+    },
+    "5": {
+      "item": "crustfix:guildinglightrock"
+    }
+  },
+  "result": {
+    "item": "crustfix:guilding_lightarmorboots",
+    "count": 1
+  }
+}

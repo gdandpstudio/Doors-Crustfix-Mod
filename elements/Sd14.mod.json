@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "sd14",
+    "name": "SD-card",
+    "description": "Lena Raine-otherside",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:otherside"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

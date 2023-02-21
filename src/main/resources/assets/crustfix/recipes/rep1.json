@@ -1,0 +1,13 @@
+{
+  "group": "crustfix",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "crustfix:glwood"
+    }
+  ],
+  "result": {
+    "item": "crustfix:glplanks",
+    "count": 4
+  }
+}

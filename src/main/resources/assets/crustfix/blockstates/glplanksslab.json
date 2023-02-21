@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "crustfix:glplanksslab"
+    },
+    "half=top,variant=default": {
+      "model": "crustfix:glplanksslab_top"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "sd1",
+    "name": "SD-card",
+    "description": "LSplash - Unhinged II",
+    "creativeTab": {
+      "value": "CUSTOM:Crustfixtab"
+    },
+    "music": {
+      "value": "CUSTOM:unhinged2"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

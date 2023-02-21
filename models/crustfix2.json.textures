@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "crustfix_texture_2"
+      },
+      "name": "default"
+    }
+  }
+}

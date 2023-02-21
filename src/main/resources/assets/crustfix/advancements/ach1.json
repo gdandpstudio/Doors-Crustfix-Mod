@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "crustfix:disc2"
+    },
+    "title": {
+      "translate": "advancements.ach1.title"
+    },
+    "description": {
+      "translate": "advancements.ach1.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "ach1": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "crustfix:goodbye"
+}

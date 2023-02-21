@@ -1,0 +1,11 @@
+{
+  "_fv": 6,
+  "_type": "tab",
+  "definition": {
+    "name": "Crustfix",
+    "icon": {
+      "value": "CUSTOM:Icon"
+    },
+    "showSearch": true
+  }
+}

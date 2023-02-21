@@ -1,0 +1,43 @@
+{
+  "_fv": 6,
+  "_type": "loottable",
+  "definition": {
+    "type": "Fishing",
+    "pools": [
+      {
+        "minrolls": 1,
+        "maxrolls": 1,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 1,
+        "hasbonusrolls": false,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Disc1"
+            },
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "minrolls": 1,
+        "maxrolls": 1,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 1,
+        "hasbonusrolls": false,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Emprysd"
+            },
+            "weight": 1
+          }
+        ]
+      }
+    ],
+    "name": "glsdlt",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "crustfix:blocks/glflower",
+    "particle": "crustfix:blocks/glflower"
+  }
+}

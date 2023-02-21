@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "3333__igstep",
+    "name": "Music Disc",
+    "description": "Lena Raine-pigstep",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:pigstep"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "sd5",
+    "name": "SD-card",
+    "description": "C418-chirp",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "record.chirp"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

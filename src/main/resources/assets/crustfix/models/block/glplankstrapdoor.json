@@ -1,0 +1,7 @@
+{
+  "parent": "block/trapdoor_bottom",
+  "textures": {
+    "texture": "crustfix:blocks/trapdoor",
+    "particle": "crustfix:blocks/trapdoor"
+  }
+}

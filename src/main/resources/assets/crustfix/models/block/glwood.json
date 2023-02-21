@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "crustfix:blocks/glwood2",
+    "up": "crustfix:blocks/glwood2",
+    "north": "crustfix:blocks/glwood1",
+    "east": "crustfix:blocks/glwood1",
+    "south": "crustfix:blocks/glwood1",
+    "west": "crustfix:blocks/glwood1",
+    "particle": "crustfix:blocks/glwood2"
+  }
+}

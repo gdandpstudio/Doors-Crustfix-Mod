@@ -1,0 +1,39 @@
+{
+  "group": "crustfix",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "crustfix:guildinglightrock"
+    },
+    "2": {
+      "item": "crustfix:guildinglightrock"
+    },
+    "3": {
+      "item": "crustfix:guildinglightrock"
+    },
+    "4": {
+      "item": "crustfix:guildinglightrock"
+    },
+    "5": {
+      "item": "crustfix:guildinglightrock"
+    },
+    "6": {
+      "item": "crustfix:guildinglightrock"
+    },
+    "7": {
+      "item": "crustfix:guildinglightrock"
+    },
+    "8": {
+      "item": "crustfix:guildinglightrock"
+    }
+  },
+  "result": {
+    "item": "crustfix:guilding_lightarmorbody",
+    "count": 1
+  }
+}

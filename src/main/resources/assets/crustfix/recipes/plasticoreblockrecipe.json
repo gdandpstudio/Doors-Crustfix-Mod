@@ -1,0 +1,42 @@
+{
+  "group": "crustfix",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "crustfix:plasticingot"
+    },
+    "1": {
+      "item": "crustfix:plasticingot"
+    },
+    "2": {
+      "item": "crustfix:plasticingot"
+    },
+    "3": {
+      "item": "crustfix:plasticingot"
+    },
+    "4": {
+      "item": "crustfix:plasticingot"
+    },
+    "5": {
+      "item": "crustfix:plasticingot"
+    },
+    "6": {
+      "item": "crustfix:plasticingot"
+    },
+    "7": {
+      "item": "crustfix:plasticingot"
+    },
+    "8": {
+      "item": "crustfix:plasticingot"
+    }
+  },
+  "result": {
+    "item": "crustfix:plasticoreblock",
+    "count": 1
+  }
+}

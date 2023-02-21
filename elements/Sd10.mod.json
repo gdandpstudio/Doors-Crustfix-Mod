@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "sd10",
+    "name": "SD-card",
+    "description": "C418-strad",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "record.strad"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

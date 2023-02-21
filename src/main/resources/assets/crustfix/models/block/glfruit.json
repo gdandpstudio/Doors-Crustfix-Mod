@@ -1,0 +1,8 @@
+{
+  "parent": "crustfix:custom/glfruit",
+  "textures": {
+    "all": "crustfix:blocks/texturew45ewe56ye5e6et75476",
+    "particle": "crustfix:blocks/texturew45ewe56ye5e6et75476",
+    "0": "crustfix:blocks/texturew45ewe56ye5e6et75476"
+  }
+}

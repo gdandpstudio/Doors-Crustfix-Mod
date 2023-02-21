@@ -1,0 +1,30 @@
+{
+  "group": "crustfix",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "crustfix:guildinglightrock"
+    },
+    "1": {
+      "item": "crustfix:guildinglightrock"
+    },
+    "2": {
+      "item": "crustfix:guildinglightrock"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "crustfix:guildinglightrocktoolpickaxe",
+    "count": 1
+  }
+}
