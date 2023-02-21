@@ -12,13 +12,9 @@
     "authorList": [
       "Snus1k_2009"
     ],
-    "dependencies": [
-      "mcreator_link"
-    ],
+    "dependencies": [],
     "dependants": [],
-    "requiredMods": [
-      "mcreator_link"
-    ],
+    "requiredMods": [],
     "useDependencyInformation": "true"
   }
 ]

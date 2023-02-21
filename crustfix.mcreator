@@ -1321,9 +1321,7 @@
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
-    "mcreatorDependencies": [
-      "mcreator_link"
-    ],
+    "mcreatorDependencies": [],
     "currentGenerator": "1.12.2",
     "credits": "Credit to LSplash",
     "modElementsPackage": "net.mcreator.crustfix",

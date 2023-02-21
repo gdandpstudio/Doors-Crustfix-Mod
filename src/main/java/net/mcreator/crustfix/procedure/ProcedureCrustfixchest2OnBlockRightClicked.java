@@ -17,7 +17,6 @@ import net.minecraft.entity.Entity;
 import net.minecraft.block.state.IBlockState;
 import net.minecraft.block.properties.IProperty;
 
-import net.mcreator.minecraft.link.CurrentDevice;
 import net.mcreator.crustfix.world.WorldGuildinglightworld;
 import net.mcreator.crustfix.item.ItemCrustfix2;
 import net.mcreator.crustfix.item.ItemCrustfix;
@@ -114,7 +113,6 @@ public class ProcedureCrustfixchest2OnBlockRightClicked extends ElementsDoorscru
 			world.playSound((EntityPlayer) null, x, y, z,
 					(net.minecraft.util.SoundEvent) net.minecraft.util.SoundEvent.REGISTRY.getObject(new ResourceLocation("crustfix:curlightost")),
 					SoundCategory.NEUTRAL, (float) 1, (float) 1);
-			CurrentDevice.sendMessage("Be careful next time");
 		}
 	}
 }
